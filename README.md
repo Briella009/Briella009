@@ -47,9 +47,54 @@ A public-facing analysis of why AI harms affecting African societies can remain 
 
 ---
 
+## 🧰 Security, AI & Research Stack
+
+### 🛡️ Security & Threat Intelligence
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-5C2D91?style=for-the-badge&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### 🤖 AI, Data & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ⚙️ Engineering & Open Source
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🧭 Governance & Research
+
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-005A9C?style=for-the-badge&logoColor=white)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-6C63FF?style=for-the-badge&logoColor=white)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-7B2CBF?style=for-the-badge&logoColor=white)
+![Digital Health Security](https://img.shields.io/badge/Digital%20Health%20Security-00A98F?style=for-the-badge&logoColor=white)
+![Privacy](https://img.shields.io/badge/Privacy%20%26%20Data%20Governance-6A5ACD?style=for-the-badge&logoColor=white)
+
+---
+
 ## 🚀 Featured Research & Open-Source Work
 
 ### 🔐 ExploitLattice — v1.0.0
+
+![Release](https://img.shields.io/badge/Release-v1.0.0-2EA44F?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010%3A2025-E34F26?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Validated-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Attack-path-aware secure code review for AI-assisted security work.**
 
@@ -64,6 +109,12 @@ The **v1.0.0 public release** introduces evidence-gated findings, attack-path ch
 ---
 
 ### 🌍 Africa AI Incident Observatory (AAIO)
+
+![Open Dataset](https://img.shields.io/badge/Open%20Dataset-17%20Curated%20Incidents-2EA44F?style=flat-square)
+![Africa](https://img.shields.io/badge/Africa-9%20Primary%20Countries-F4A261?style=flat-square)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-6C63FF?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Explorer-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Evidence](https://img.shields.io/badge/Evidence-Source%20Traceable-0A9396?style=flat-square)
 
 **Open evidence infrastructure for documenting AI incidents affecting African people, institutions and information environments.**
 
@@ -81,6 +132,12 @@ Its seed release documents **17 curated incidents across 9 primary African count
 
 ### 🛡️ TriageBloom
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=flat-square)
+![DFIR](https://img.shields.io/badge/DFIR-005A9C?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC%20Automation-00A98F?style=flat-square)
+![Privacy](https://img.shields.io/badge/Privacy-First-7B2CBF?style=flat-square)
+
 **Privacy-first, explainable security-log triage for SOC analysts and incident responders.**
 
 TriageBloom provides deterministic security triage with ATT&CK-aligned detections, evidence traceability, pseudonymisation and analyst-readable reporting.
@@ -93,6 +150,11 @@ TriageBloom provides deterministic security triage with ATT&CK-aligned detection
 
 ### 🏥 ClinDrift
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Digital Health](https://img.shields.io/badge/Digital%20Health-00A98F?style=flat-square)
+![Trustworthy AI](https://img.shields.io/badge/Trustworthy%20AI-6C63FF?style=flat-square)
+![Human Review](https://img.shields.io/badge/Human%20Review-Safeguards-E76F51?style=flat-square)
+
 **Research prototype for detecting clinically significant information drift in AI-transformed health records.**
 
 ClinDrift explores evidence-traceable detection of safety-relevant changes in clinical information, with human-review safeguards designed for trustworthy AI-enabled healthcare environments.
@@ -104,6 +166,11 @@ ClinDrift explores evidence-traceable detection of safety-relevant changes in cl
 ---
 
 ### 🧠 BGNexa-AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC-005A9C?style=flat-square)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-6C63FF?style=flat-square)
+![Evidence Intelligence](https://img.shields.io/badge/Evidence%20Intelligence-0A9396?style=flat-square)
 
 **Evidence intelligence for cybersecurity, privacy and regulatory readiness.**
 
