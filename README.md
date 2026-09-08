@@ -26,6 +26,20 @@ Alongside my professional work, I build open-source security and AI projects and
 
 ## 🚀 Featured Research & Open-Source Projects
 
+### 🌍 Africa AI Incident Observatory (AAIO)
+
+**A source-traceable open dataset for documenting AI incidents affecting African people, institutions and information environments.**
+
+AAIO turns fragmented public reporting into structured incident evidence with explicit inclusion criteria, source provenance, evidence-confidence grading, transparent impact scoring, a conservative watchlist for cases where AI causation is unclear, automated validation, and a searchable Streamlit explorer.
+
+The seed release contains **17 curated incidents across 9 primary African countries** and is designed to complement existing global AI incident-monitoring efforts while preserving African context and uncertainty.
+
+**Focus:** AI Governance • AI Safety • Incident Intelligence • Public-Interest Technology • Africa
+
+[View Africa AI Incident Observatory](https://github.com/Briella009/Blessing)
+
+---
+
 ### 🛡️ TriageBloom
 
 **Privacy-first, explainable security log triage for SOC analysts and incident responders.**
@@ -75,6 +89,7 @@ Current and developing research themes include:
 * Human factors and adoption of privacy-enhancing technologies
 * Security governance for AI-enabled healthcare systems
 * Explainable and privacy-preserving security triage
+* AI incident monitoring and evidence infrastructure in African contexts
 
 ---
 
@@ -132,6 +147,7 @@ I am currently building and researching systems around:
 * AI-assisted cybersecurity evidence analysis
 * Trustworthy AI for digital health
 * AI governance and security assurance
+* AI incident monitoring and public-interest evidence infrastructure
 * Reproducible cybersecurity research
 
 I am particularly interested in **PhD research and research collaborations** involving cybersecurity, trustworthy AI, digital health security, privacy, and AI governance.
@@ -147,6 +163,7 @@ I am open to collaboration in:
 * Digital Health Security
 * Cyber Threat Intelligence
 * AI Governance
+* AI Incident Monitoring
 * Privacy and Security Engineering
 * Open-Source Security Research
 
