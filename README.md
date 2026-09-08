@@ -36,7 +36,7 @@ The seed release contains **17 curated incidents across 9 primary African countr
 
 **Focus:** AI Governance • AI Safety • Incident Intelligence • Public-Interest Technology • Africa
 
-[View Africa AI Incident Observatory](https://github.com/Briella009/Blessing)
+[View Africa AI Incident Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory)
 
 ---
 
