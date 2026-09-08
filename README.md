@@ -36,7 +36,7 @@ The seed release contains **17 curated incidents across 9 primary African countr
 
 **Focus:** AI Governance • AI Safety • Incident Intelligence • Public-Interest Technology • Africa
 
-[Live Dashboard](https://africa-ai-incident-observatory-zqnb3myucyuxy7ok4wsxc3.streamlit.app/) · [Source & Dataset](https://github.com/Briella009/Africa-AI-Incident-Observatory)
+[Live Dashboard](https://aaio-africa.streamlit.app/) · [Source & Dataset](https://github.com/Briella009/Africa-AI-Incident-Observatory)
 
 ---
 
