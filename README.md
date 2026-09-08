@@ -36,7 +36,7 @@ The seed release contains **17 curated incidents across 9 primary African countr
 
 **Focus:** AI Governance • AI Safety • Incident Intelligence • Public-Interest Technology • Africa
 
-[View Africa AI Incident Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory)
+[Live Dashboard](https://africa-ai-incident-observatory-zqnb3myucyuxy7ok4wsxc3.streamlit.app/) · [Source & Dataset](https://github.com/Briella009/Africa-AI-Incident-Observatory)
 
 ---
 
@@ -171,10 +171,10 @@ I am open to collaboration in:
 
 ## 🌐 Academic & Professional Profiles
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9972--9380-A6CE39?logo=orcid\&logoColor=white)](https://orcid.org/0009-0005-9972-9380)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blessing%20Ezeobioha-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/blessing-ezeobioha-)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Research%20%26%20Cybersecurity-000000?logo=githubpages\&logoColor=white)](https://portosaurus.github.io/blessing)
-[![GitHub](https://img.shields.io/badge/GitHub-Briella009-181717?logo=github\&logoColor=white)](https://github.com/Briella009)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9972--9380-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9972-9380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blessing%20Ezeobioha-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-ezeobioha-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Research%20%26%20Cybersecurity-000000?logo=githubpages&logoColor=white)](https://portosaurus.github.io/blessing)
+[![GitHub](https://img.shields.io/badge/GitHub-Briella009-181717?logo=github&logoColor=white)](https://github.com/Briella009)
 
 **Research & collaboration:** Cybersecurity • Trustworthy AI • AI Security • Digital Health Security • Threat Intelligence • AI Governance
 
