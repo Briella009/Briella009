@@ -8,6 +8,18 @@ I bring **4+ years of cybersecurity experience** spanning SOC operations, digita
 
 Alongside my professional work, I build open-source security and AI projects and conduct applied research around **trustworthy AI, AI security, cybersecurity governance, explainable systems, and secure digital health technologies**.
 
+## 🚀 Start here — open-source projects
+
+| Project | What it does | Try / explore |
+|---|---|---|
+| **[TriageBloom](https://github.com/Briella009/Triagebloom)** | Privacy-first, explainable SOC log triage with Microsoft security context and incident correlation | [Live demo](https://triagebloom.streamlit.app) |
+| **[Africa AI Incident Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory)** | Source-traceable open dataset for AI incidents affecting African people and institutions | [Live dashboard](https://aaio-africa.streamlit.app/) |
+| **[ExploitLattice](https://github.com/Briella009/ExploitLattice)** | Attack-path-aware secure code review with evidence grading and remediation choke points | [Demo files](https://github.com/Briella009/ExploitLattice/tree/main/examples) |
+| **[BGNexa AI](https://github.com/Briella009/BGNexa-AI)** | Evidence intelligence and assurance workspace for cybersecurity, privacy and regulatory readiness | [Repository](https://github.com/Briella009/BGNexa-AI) |
+| **[ClinDrift](https://github.com/Briella009/ClinDrift)** | Research prototype for detecting clinically significant information drift in AI-transformed health records | [Repository](https://github.com/Briella009/ClinDrift) |
+
+If one of these projects is useful to you, **star it to follow releases, fork it to experiment, or contribute a focused pull request**.
+
 ---
 
 ## ✨ Latest Outputs — 2026
@@ -20,7 +32,7 @@ Released **ExploitLattice v1.0.0**, an open-source attack-path-aware secure code
 ### 🌍 Africa AI Incident Observatory
 Built an open, source-traceable evidence infrastructure for documenting AI incidents affecting African people, institutions and information environments.
 
-The seed dataset contains **17 curated incidents across 9 primary African countries**, supported by evidence-confidence grading, transparent impact scoring, provenance tracking and a public interactive explorer.
+The current core dataset contains **19 curated incidents across 9 primary African countries**, supported by evidence-confidence grading, transparent impact scoring, provenance tracking and a public interactive explorer.
 
 [Explore the Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory) · [Live Dashboard](https://aaio-africa.streamlit.app/)
 
@@ -122,7 +134,7 @@ AAIO addresses a visibility gap in global AI governance by converting fragmented
 
 The observatory incorporates explicit inclusion criteria, source provenance, evidence-confidence grading, transparent impact scoring, a conservative watchlist for uncertain AI causation, automated data validation and a searchable public dashboard.
 
-Its seed release documents **17 curated incidents across 9 primary African countries**, creating an auditable foundation for research into AI harms, governance and accountability in African contexts.
+The current core dataset documents **19 curated incidents across 9 primary African countries**, creating an auditable foundation for research into AI harms, governance and accountability in African contexts.
 
 **Focus:** AI Governance • AI Safety • Responsible AI • Incident Intelligence • Africa • Public-Interest Technology
 
@@ -144,7 +156,7 @@ TriageBloom provides deterministic security triage with ATT&CK-aligned detection
 
 **Focus:** SOC Automation • Explainable Security • Threat Detection • DFIR • MITRE ATT&CK
 
-[View TriageBloom](https://github.com/Briella009/Triagebloom)
+[Live Demo](https://triagebloom.streamlit.app) · [View TriageBloom](https://github.com/Briella009/Triagebloom)
 
 ---
 
