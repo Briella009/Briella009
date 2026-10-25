@@ -10,13 +10,13 @@ Alongside my professional work, I build open-source security and AI projects and
 
 ## 🚀 Start here — open-source projects
 
-| Project | What it does | Try / explore |
-|---|---|---|
-| **[TriageBloom](https://github.com/Briella009/Triagebloom)** | Privacy-first, explainable SOC log triage with Microsoft security context and incident correlation | [Live demo](https://triagebloom.streamlit.app) |
-| **[Africa AI Incident Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory)** | Source-traceable open dataset for AI incidents affecting African people and institutions | [Live dashboard](https://aaio-africa.streamlit.app/) |
-| **[ExploitLattice](https://github.com/Briella009/ExploitLattice)** | Attack-path-aware secure code review with evidence grading and remediation choke points | [Demo files](https://github.com/Briella009/ExploitLattice/tree/main/examples) |
-| **[BGNexa AI](https://github.com/Briella009/BGNexa-AI)** | Evidence intelligence and assurance workspace for cybersecurity, privacy and regulatory readiness | [Repository](https://github.com/Briella009/BGNexa-AI) |
-| **[ClinDrift](https://github.com/Briella009/ClinDrift)** | Research prototype for detecting clinically significant information drift in AI-transformed health records | [Repository](https://github.com/Briella009/ClinDrift) |
+| Project | What it does | Try / explore | Contribute |
+|---|---|---|---|
+| **[TriageBloom](https://github.com/Briella009/Triagebloom)** | Privacy-first, explainable SOC log triage with Microsoft security context and incident correlation | [Live demo](https://triagebloom.streamlit.app) | [Starter PRs](https://github.com/Briella009/Triagebloom/blob/main/CONTRIBUTING.md) |
+| **[Africa AI Incident Observatory](https://github.com/Briella009/Africa-AI-Incident-Observatory)** | Source-traceable open dataset for AI incidents affecting African people and institutions | [Live dashboard](https://aaio-africa.streamlit.app/) | [Contributing](https://github.com/Briella009/Africa-AI-Incident-Observatory/blob/main/CONTRIBUTING.md) |
+| **[ExploitLattice](https://github.com/Briella009/ExploitLattice)** | Attack-path-aware secure code review with evidence grading and remediation choke points | [Demo files](https://github.com/Briella009/ExploitLattice/tree/main/examples) | [Starter PRs](https://github.com/Briella009/ExploitLattice/blob/main/CONTRIBUTING.md) |
+| **[BGNexa AI](https://github.com/Briella009/BGNexa-AI)** | Evidence intelligence and assurance workspace for cybersecurity, privacy and regulatory readiness | [Live beta](https://bgnexa-ai.streamlit.app/) | [Starter PRs](https://github.com/Briella009/BGNexa-AI/blob/main/CONTRIBUTING.md) |
+| **[ClinDrift](https://github.com/Briella009/ClinDrift)** | Research prototype for detecting clinically significant information drift in AI-transformed health records | [Repository](https://github.com/Briella009/ClinDrift) | [Starter PRs](https://github.com/Briella009/ClinDrift/blob/main/CONTRIBUTING.md) |
 
 If one of these projects is useful to you, **star it to follow releases, fork it to experiment, or contribute a focused pull request**.
 
