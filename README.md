@@ -24,6 +24,14 @@ If one of these projects is useful to you, **star it to follow releases, fork it
 
 ## ✨ Latest Outputs — 2026
 
+### 📄 Published Research — AISEC 2026
+
+**[Explainable AI for Security Operations: Improving Cyber Threat Intelligence Reporting and Visibility Across African Organizations](https://www.scimetech.com/issues/vol2/issue1/V2I1A24.html)**
+
+Published in *Sciences Methods and Technologies International Journal (SciMeTech)*, **2**(1), 2026, following presentation at AISEC 2026. The paper explores explainable, evidence-linked cyber threat intelligence reporting for African security operations.
+
+[Read the published article](https://www.scimetech.com/issues/vol2/issue1/V2I1A24.html)
+
 ### 🔐 ExploitLattice v1.0.0
 Released **ExploitLattice v1.0.0**, an open-source attack-path-aware secure code review framework for AI-assisted security work. It combines evidence-gated findings, attack-path chaining, reachability-aware prioritisation and remediation choke-point analysis.
 
@@ -213,6 +221,19 @@ Current and developing research themes include:
 
 ## 📄 Publications, Research & Technical Writing
 
+### 📄 Explainable AI for Security Operations: Improving Cyber Threat Intelligence Reporting and Visibility Across African Organizations
+**Journal publication · Sciences Methods and Technologies International Journal (SciMeTech) · 2(1), 2026 · Presented at AISEC 2026**
+
+Ezeobioha, B. N. (2026). *Explainable AI for Security Operations: Improving Cyber Threat Intelligence Reporting and Visibility Across African Organizations*. *Sciences Methods and Technologies International Journal (SciMeTech)*, *2*(1).
+
+The paper examines how explainable AI can support clearer, more traceable cyber threat intelligence reporting and analyst decision-making in African organisations.
+
+**[Read the published paper](https://www.scimetech.com/issues/vol2/issue1/V2I1A24.html)**
+
+**Related but separate research:** [Africa AI Incident Observatory (AAIO)](https://github.com/Briella009/Africa-AI-Incident-Observatory) focuses on source-traceable documentation of AI incidents affecting Africa. Both works address the value of structured incident evidence, but AAIO is not presented as an implementation or validation of this paper.
+
+---
+
 ### ✍🏽 Africa's AI Failures Are Hiding in Plain Sight: I Built a Dataset to Track Them
 **Medium • 2026**
 
@@ -223,15 +244,6 @@ The article introduces the motivation behind the **Africa AI Incident Observator
 **Themes:** AI Governance • Responsible AI • AI Safety • Africa • Technology Policy • Incident Evidence
 
 [Read the Article](https://medium.com/@gabriellaakubueze115/africas-ai-failures-are-hiding-in-plain-sight-i-built-a-dataset-to-track-them-2f57e4a8f25c)
-
----
-
-### 🎓 Explainable AI for Cyber Threat Intelligence
-**Presented at AISEC 2026 • Marrakech, Morocco**
-
-Research examining the use of explainable AI approaches to improve cyber threat intelligence reporting and support more interpretable security decision-making across African organisations.
-
-**Themes:** Explainable AI • Cyber Threat Intelligence • African Cybersecurity • Security Operations
 
 ---
 
